@@ -1,4 +1,4 @@
-##I check off each item by December 18th 2014.
+##I promise to check off each item by December 18th 2014.
 
 
 ####Major Task 1.
