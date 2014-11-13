@@ -1,7 +1,7 @@
-#I must do, complete, acheive, stop etc these things by the end of the year, ok.
+##I check off each item by December 18th 2014.
 
 
-#####Major Task 1.
+####Major Task 1.
 - [ ] __spring clean and de-clutter each room / area in the house__
 
   - [ ] *bedroom*
