@@ -1,7 +1,7 @@
 ##I promise to check off each item by December 18th 2014.
 ######Working on my games
 
-- [ ] ####Panda Love *Windows Store*
+- [ ] __Panda Love__ *Windows Store*
  - [ ] new GDF
  - [ ] check 'countries to publish in' settings
  - [ ] change website links
@@ -11,7 +11,7 @@
 ---
 
 
-- [ ] ####Lil Mads *windows phone*
+- [ ] __Lil Mads__ *windows phone*
  - [ ] go through clothes, seperate into good for donations, good to go, what to keep. 
  - [ ] clear out under the bed, at the most there should only be a couple of well organised tubs!
  - [ ] top of cupboard needs sorting and removal of junk. - be strong and get rid of those old things.
@@ -21,7 +21,7 @@
 ---
 
 
-- [ ] ####Goldblade *windows store*
+- [ ] __Goldblade__ *windows store*
  - [ ] new GDF
  - [ ] check 'countries to publish in' settings
  - [ ] change website links
@@ -33,7 +33,7 @@
 ---
 
 
-####Other games
+- [ ] __Other games__
  - [ ] go through clothes, seperate into good for donations, good to go, what to keep. 
  - [ ] clear out under the bed, at the most there should only be a couple of well organised tubs!
  - [ ] top of cupboard needs sorting and removal of junk. - be strong and get rid of those old things.
