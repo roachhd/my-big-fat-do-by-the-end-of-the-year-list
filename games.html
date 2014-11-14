@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <title>Games To Do List</title>
+  <!-- Flatdoc -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script src='https://cdn.rawgit.com/rstacruz/flatdoc/v0.9.0/flatdoc.js'></script>
+
+  <!-- colors theme -->
+  <link  href='colors.css' rel='stylesheet'>
+  <script src='colors.js'></script>
+
+  <!-- Initializer -->
+  <script>
+    Flatdoc.run({
+      fetcher: Flatdoc.github('roachhd/my-big-fat-do-by-the-end-of-the-year-list',games.md')
+    });
+  </script>
+</head>
+<body role='flatdoc'>
+  <div role='flatdoc-menu'></div>
+  <div role='flatdoc-content'></div>
+</body>
+</html>
+
