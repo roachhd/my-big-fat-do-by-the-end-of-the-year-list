@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
     (function(){
       var neonColors = [
         '#ff00ff',
@@ -38,4 +38,3 @@
         linkItems[i].style.backgroundColor = neonColors[ Math.floor(Math.random() * (neonColors.length + 1)) ];
       }
     })();
-  </script>
