@@ -1,0 +1,14 @@
+html { margin: 0; padding: 0; border-top: 10px solid cyan; }
+    body { width: 100%; max-width: 900px; margin: 20px auto; font-family: monospace; font-size: 16px; line-height: 1.5em; }
+    a { color: blue; text-decoration: none; }
+    h1 { font-size: 4em; }
+    h1 em { color: magenta; font-size: .3em; }
+    h3 { font-size: 3em; line-height: .7em; }
+    ul { margin: 20px 0; padding: 0; list-style: none; }
+    li { margin: 1em 0; color: #666; text-align: right; }
+    li a { display: block; padding: 10px 20px; background: cyan; color: black; text-align: left; font-size: 1.2em; }
+    li a:hover { color: white; background: black!important; /* lol so important yo */ }
+    #links section.me { float: left; width: 400px; max-width: 100%; margin: 20px; }
+    img.right { float: right; margin: 0 0 10px 10px; border: 10px solid lime;  }
+    footer,
+    .pals { clear: both; }
