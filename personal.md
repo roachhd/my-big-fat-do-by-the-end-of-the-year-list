@@ -24,7 +24,6 @@
       - [ ] make a list of things needed 
           - cutlery
           - some containers
-          - 
 
   - [ ] *laundry*
       - [ ] again its this cupboards.
@@ -32,8 +31,8 @@
   - [ ] *bathroom* 
       - [ ] doesn't need much, just a few things from the cupboard.
 
----
 
+---
 
 ####Major Task 2.
 - [ ] __Put on 8kg__
@@ -47,9 +46,7 @@
   - [ ] eat 🍴 
 
 
-
 ---
-
 
 ####Major Task 4. 
 - [ ] Teach the kids to swim better 🏊
@@ -57,11 +54,7 @@
     - [ ] see if Maddy wants to join a club.
         - [ ] I have to get in the water and pretend I can swim 😌
 
-
-
 ---
-
-
   
 ####Major Task 4. 
 - [ ] Christmas 🎄
