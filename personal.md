@@ -70,6 +70,8 @@
 - [ ] organize a small holiday. probably on 3 - 7 days somewhere at the beach. calling ⁉ 
 
 
+---
+
 
 
 # Working on my games
@@ -80,8 +82,6 @@
 - [ ] change website links
 - [ ] submit 🌟
 
-
----
 
 
 #### Lil Mads__ *windows phone*
@@ -99,5 +99,11 @@
 - [ ] submit 🌟
 
 
+---
+
+# Web Works
+
+## Finish my metro site for Roach Haus 
+- [ ] finish adding portfolio
 
 *📢 I promises to have these items competed by the 18/12/2014.*
