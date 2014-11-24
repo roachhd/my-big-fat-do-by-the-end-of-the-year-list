@@ -1,6 +1,6 @@
 # I promise to compete by December 30th 2014.
 
-
+# Personal
 ## Task 1. ❌
 #### spring clean and de-clutter each room / area in the house
 
@@ -68,3 +68,36 @@
 
 - [ ] make a final Christmas gift list on [Trello](http://trello.com). This will have reminded and the styles, photos, etc.
 - [ ] organize a small holiday. probably on 3 - 7 days somewhere at the beach. calling ⁉ 
+
+
+
+
+# Working on my games
+
+#### Panda Love *Windows Store*
+- [ ] new GDF
+- [ ] check 'countries to publish in' settings
+- [ ] change website links
+- [ ] submit 🌟
+
+
+---
+
+
+#### Lil Mads__ *windows phone*
+- [ ] get back button function working
+- [ ] change website links
+- [ ] check submission settings and GDF
+- [ ] submit 🌟
+
+
+
+#### Goldblade *windows store*
+- [ ] new GDF
+- [ ] check 'countries to publish in' settings
+- [ ] change website links
+- [ ] submit 🌟
+
+
+
+*📢 I promises to have these items competed by the 18/12/2014.*
