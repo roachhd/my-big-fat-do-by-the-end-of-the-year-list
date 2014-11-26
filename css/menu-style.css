@@ -1,3 +1,89 @@
+
+// ----------------------------------------------------------------------------
+// Sidebar
+
+
+.menubar
+  antialias()
+  .section
+    padding: $sidepad $sidepad
+    box-sizing: border-box
+
+
+  .section + .section
+    border-top: solid 1px $line
+
+
+  .section.no-line
+    border-top: 0
+    padding-top: 0
+
+
+a.big.button
+  display: block
+  box-sizing: border-box
+  width: 100%
+  padding: 10px 20px
+  text-align: center
+
+
+  font-weight: bold
+  font-size: 1.1em
+
+
+  background: transparent
+  border: solid 3px $accent
+  border-radius: 30px
+  font-family: montserrat, sans-serif
+
+
+  &, &:visited
+    color: $accent
+    text-decoration: none
+
+
+  &:hover
+    background: $accent
+    &, &:visited
+      color: white
+
+
+@media (max-width: 480px) /* Mobile */
+  .menubar
+    padding: $minipad
+    border-bottom: solid 1px $line
+
+
+@media (max-width: 768px) /* Mobile and tablet */
+  .menubar
+    display: none
+
+
+@media (min-width: 768px) /* Desktop */
+  .content-root
+    padding-left: $sidebar-width
+
+
+  .menubar
+    position: absolute
+    left: 0
+    top: 0
+    bottom: 0
+    width: $sidebar-width
+    border-right: solid 1px $line
+
+
+  .menubar.fixed
+    position: fixed
+
+
+    scrollbar()
+    overflow-y: auto
+
+
+.menubar
+  font-size: 0.9em
+
 // Menu items
 .menu
   ul.level-1 > li + li
