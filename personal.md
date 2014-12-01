@@ -111,7 +111,7 @@
 
 # Web Works
 
-## Finish my metro site for Roach Haus 
+- [ ] Finish my metro site for Roach Haus 
 - [ ] finish adding portfolio
 - [ ] Maddy blog and gallery
 - [ ] lockys blog and gallery
