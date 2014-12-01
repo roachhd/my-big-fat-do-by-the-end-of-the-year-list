@@ -2,8 +2,7 @@
 
 **Personal**
 ## Task 1
-#### spring clean and de-clutter each room / area in the house
-
+**spring clean and de-clutter each room / area**
 ##### bedroom
 - [ ] go through clothes.
   - [x] Chris
@@ -43,7 +42,7 @@
 
 
 ## Task 2
-#### Put on 8kg 
+**Put on 8kg**
 
 - [ ] ear breakfast
 - [ ] drink less coffee 🍵
@@ -54,7 +53,7 @@
 
 
 ## Task 3
-#### Kids activities
+**Kids activities**
 - [ ] Teach the kids to swim better 🏊
 - [ ] get to the pools at least once a week
 - [ ] see if Maddy wants to join a club.
@@ -62,7 +61,7 @@
 
   
 ## Task 4
-####Christmas 🎄
+**Christmas** 🎄
 
 - [ ] chop down a tree & decorate it 
 - [ ] put house decorations up
