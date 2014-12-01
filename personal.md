@@ -1,6 +1,6 @@
-# I promise to compete by December 30th 2014.
+*I promise to compete by December 30th 2014.*
 
-# Personal
+***Personal***
 ## Task 1. ❌
 #### spring clean and de-clutter each room / area in the house
 
