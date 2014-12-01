@@ -82,7 +82,7 @@
 
 
 
-# Working on my games
+# Games
 
 #### Panda Love *Windows Store*
 - [ ] new GDF
@@ -109,7 +109,7 @@
 
 ---
 
-# Web Works
+# Web
 
 - [ ] Finish my metro site for Roach Haus 
 - [ ] finish adding portfolio
@@ -124,7 +124,7 @@
 
 ---
 
-# Photo Stuff
+# Photo
 - [ ] fill my photo frames
 - [ ] backup all
 - [ ] sort nana brag books
