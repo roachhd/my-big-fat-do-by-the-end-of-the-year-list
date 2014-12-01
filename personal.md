@@ -6,10 +6,12 @@
 
 ##### bedroom
 - [ ] go through clothes.
-- [ ] separate into good for donations good to go what to keep
+  - [x] Chris
+  - [ ] Mine
+- [x] separate into good for donations good to go what to keep
 - [ ] clear out under the bed, at the most there should only be a couple of well organized tubs!
 - [ ] be brutal with the shoes, you don't need 46 paid 👡 👟 👞 
-- [ ] top of cupboard needs sorting and removal of junk. - be strong and get rid of those old things.
+- [x] top of cupboard needs sorting and removal of junk. - be strong and get rid of those old things.
 - [ ] sort and store 1 tub of keepsakes, throw the rest.
 - [ ] get desk back to how it was 2 months ago, totally pure. Toys are cute but I have too many.
 
@@ -20,7 +22,13 @@
 
 ##### kitchen
 - [ ] go through cupboards and throw out what I don't Need. 
-- [ ] if I have not used it in two years then I probably won't use it again ™ 
+  - [x] under food
+  - [ ] under sink
+  - [ ] under bench
+- [ ] clear bookshelf
+  - [ ] donate old books
+  - [ ] check book boxes, donate old ones
+- [x] if I have not used it in two years then I probably won't use it again ™ 
 - [ ] make a list of things needed 
      * cutlery
      * some containers
@@ -105,5 +113,26 @@
 
 ## Finish my metro site for Roach Haus 
 - [ ] finish adding portfolio
+- [ ] Maddy blog and gallery
+- [ ] lockys blog and gallery
+- [ ] Chris and I timeline
+- [ ] dads site
+- [ ] mums recipes
+- [ ] organize my sites
+  - [ ] move all of go daddy
+
+
+---
+
+# Photo Stuff
+- [ ] fill my photo frames
+- [ ] backup all
+- [ ] sort nana brag books
+- [ ] make calendar for nana's
+- [ ] make a couple of photo album videos 
+  - [ ] bulk video
+  - [ ] fun story videos
+
+---
 
 *📢 I promises to have these items competed by the 18/12/2014.*
