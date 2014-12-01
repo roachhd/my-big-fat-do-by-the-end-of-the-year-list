@@ -4,9 +4,9 @@
       margin: 0 0 3em 0;
       padding: 0;
       list-style: none;
-      background-color: #f2f2f2;
-      border-bottom: 1px solid #ccc; 
-      border-top: 1px solid #ccc; }
+      background-color: #000;
+      border-bottom: 1px solid #fdfc74; 
+      border-top: 1px solid #fdfc74; }
    .nav li {
       float: left; }
    .nav li a {
@@ -14,27 +14,9 @@
       padding: 8px 15px;
       text-decoration: none;
       font-weight: bold;
-      color: #069;
+      color: #1df914;
       border-right: 1px solid #ccc; }
    .nav li a:hover {
-      color: #c00;
-      background-color: #fff; }
+      color: #cda4de;
+      background-color: #000; }
    /* End navigation bar styling. */
-   
-.menubar {
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
-}
-.menubar .section {
-  padding: 30px 30px;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-.menubar .section + .section {
-  border-top: solid 1px #dfe2e7;
-}
-.menubar .section.no-line {
-  border-top: 0;
-  padding-top: 0;
-}
