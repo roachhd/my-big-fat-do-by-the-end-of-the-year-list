@@ -54,6 +54,7 @@
 
 ## Task 3
 **Kids activities**
+
 - [ ] Teach the kids to swim better 🏊
 - [ ] get to the pools at least once a week
 - [ ] see if Maddy wants to join a club.
