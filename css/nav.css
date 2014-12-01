@@ -5,17 +5,17 @@
       padding: 0;
       list-style: none;
       background-color: #000;
-      border-bottom: 1px solid #fdfc74; 
-      border-top: 1px solid #fdfc74; }
+      border-bottom: 2px solid #fdfc74; 
+      border-top: 2px solid #fdfc74; }
    .nav li {
       float: left; }
    .nav li a {
       display: block;
-      padding: 8px 15px;
+      padding: 8px 8px;
       text-decoration: none;
       font-weight: bold;
       color: #1df914;
-      border-right: 1px solid #ccc; }
+      border-right: 2px solid #fdfc74; }
    .nav li a:hover {
       color: #cda4de;
       background-color: #000; }
