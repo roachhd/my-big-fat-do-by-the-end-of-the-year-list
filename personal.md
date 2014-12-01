@@ -1,7 +1,7 @@
 *I promise to compete by December 30th 2014.*
 
-***Personal***
-## Task 1. ❌
+**Personal**
+## Task 1
 #### spring clean and de-clutter each room / area in the house
 
 ##### bedroom
@@ -42,7 +42,7 @@
 
 
 
-## Task 2. ❌
+## Task 2
 #### Put on 8kg 
 
 - [ ] ear breakfast
@@ -53,7 +53,7 @@
 
 
 
-## Task 3. 
+## Task 3
 #### Kids activities
 - [ ] Teach the kids to swim better 🏊
 - [ ] get to the pools at least once a week
@@ -61,7 +61,7 @@
 - [ ] I have to get in the water and pretend I can swim 😌
 
   
-## Task 4.
+## Task 4
 ####Christmas 🎄
 
 - [ ] chop down a tree & decorate it 
