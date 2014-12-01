@@ -92,7 +92,7 @@
 
 
 
-#### Lil Mads__ *windows phone*
+#### Lil Mads *windows phone*
 - [ ] get back button function working
 - [ ] change website links
 - [ ] check submission settings and GDF
