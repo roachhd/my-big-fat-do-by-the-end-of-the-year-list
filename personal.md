@@ -18,6 +18,7 @@
 - [ ] top of cupboard needs sorting and removal of junk. - be strong and get rid of those old things.
 - [ ] sort, and set up the craft tubs and table.
 - [ ] Get a bigger shelf to put the 168 skylanders on 😒 
+- [ ] Paint Dora tubs
 
 ##### kitchen
 - [ ] go through cupboards and throw out what I don't Need. 
@@ -29,12 +30,12 @@
   - [ ] check book boxes, donate old ones
 - [x] if I have not used it in two years then I probably won't use it again ™ 
 - [ ] make a list of things needed 
-     * cutlery
-     * some containers
+     * 💵 cutlery
+     * 💵 some containers
 
 ##### laundry
-- [ ] again its this cupboards.
-- [ ] get some containers for pegs powder etc
+- [x] again its this cupboards.
+- [ ] 💵  get some containers for pegs powder etc
 
 ##### bathroom
 - [ ] doesn't need much clearing, just a few things from the cupboard.
@@ -56,8 +57,8 @@
 **Kids activities**
 
 - [ ] Teach the kids to swim better 🏊
-- [ ] get to the pools at least once a week
-- [ ] see if Maddy wants to join a club.
+- [x] get to the pools at least once a week
+- [x] see if Maddy wants to join a club.
 - [ ] I have to get in the water and pretend I can swim 😌
 
   
@@ -65,15 +66,12 @@
 **Christmas** 🎄
 
 - [ ] chop down a tree & decorate it 
-- [ ] put house decorations up
-
+- [x] put house decorations up
 - [ ] get kids to do their Christmas cards / candy canes
   - [ ] kids & I make presents for the teachers
-
-- [ ] write letters to Santa 🎅
+- [x write letters to Santa 🎅
 - [ ] make sure Santa sends a reply 😉
 - [ ] do family & friends Christmas cards
-
 - [ ] make a final Christmas gift list on [Trello](http://trello.com). This will have reminded and the styles, photos, etc.
 - [ ] organize a small holiday. probably on 3 - 7 days somewhere at the beach. calling ⁉ 
 
@@ -136,3 +134,4 @@
 ---
 
 *📢 I promises to have these items competed by the 18/12/2014.*
+ 
