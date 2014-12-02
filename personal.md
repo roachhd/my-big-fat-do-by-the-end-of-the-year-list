@@ -3,16 +3,20 @@
 **Personal**
 ## Task 1
 **spring clean and de-clutter each room / area**
-##### bedroom
+##### bedrooms
 - [ ] go through clothes.
   - [x] Chris
   - [ ] Mine
+  - [ ] Maddy
+  - [ ] Lockys
 - [x] separate into good for donations good to go what to keep
 - [ ] clear out under the bed, at the most there should only be a couple of well organized tubs!
 - [ ] be brutal with the shoes, you don't need 46 paid 👡 👟 👞 
 - [x] top of cupboard needs sorting and removal of junk. - be strong and get rid of those old things.
 - [ ] sort and store 1 tub of keepsakes, throw the rest.
 - [ ] get desk back to how it was 2 months ago, totally pure. Toys are cute but I have too many.
+- [ ] lockys toys
+- [ ] Maddy's toys
 
 ##### games room
 - [ ] top of cupboard needs sorting and removal of junk. - be strong and get rid of those old things.
@@ -69,11 +73,13 @@
 - [x] put house decorations up
 - [ ] get kids to do their Christmas cards / candy canes
   - [ ] kids & I make presents for the teachers
-- [x write letters to Santa 🎅
+- [x] write letters to Santa 🎅
 - [ ] make sure Santa sends a reply 😉
 - [ ] do family & friends Christmas cards
 - [ ] make a final Christmas gift list on [Trello](http://trello.com). This will have reminded and the styles, photos, etc.
 - [ ] organize a small holiday. probably on 3 - 7 days somewhere at the beach. calling ⁉ 
+- [x] kids to do drawings on tags/bookmarks
+- [ ] get tags/bookmarks laminated
 
 
 ---
