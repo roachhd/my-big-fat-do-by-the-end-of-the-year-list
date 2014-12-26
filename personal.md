@@ -6,17 +6,17 @@
 ##### bedrooms
 - [ ] go through clothes.
   - [x] Chris
-  - [ ] Mine
-  - [ ] Maddy
-  - [ ] Lockys
+  - [x] Mine
+  - [x] Maddy
+  - [x] Lockys
 - [x] separate into good for donations good to go what to keep
-- [ ] clear out under the bed, at the most there should only be a couple of well organized tubs!
-- [ ] be brutal with the shoes, you don't need 46 paid 👡 👟 👞 
+- [x] clear out under the bed, at the most there should only be a couple of well organized tubs!
+- [x] be brutal with the shoes, you don't need 46 paid 👡 👟 👞 
 - [x] top of cupboard needs sorting and removal of junk. - be strong and get rid of those old things.
-- [ ] sort and store 1 tub of keepsakes, throw the rest.
-- [ ] get desk back to how it was 2 months ago, totally pure. Toys are cute but I have too many.
-- [ ] lockys toys
-- [ ] Maddy's toys
+- [x] sort and store 1 tub of keepsakes, throw the rest.
+- [x] get desk back to how it was 2 months ago, totally pure. Toys are cute but I have too many.
+- [x] lockys toys
+- [x] Maddy's toys
 
 ##### games room
 - [ ] top of cupboard needs sorting and removal of junk. - be strong and get rid of those old things.
@@ -42,7 +42,7 @@
 - [ ] 💵  get some containers for pegs powder etc
 
 ##### bathroom
-- [ ] doesn't need much clearing, just a few things from the cupboard.
+- [x] doesn't need much clearing, just a few things from the cupboard.
 
 
 
@@ -69,17 +69,17 @@
 ## Task 4
 **Christmas** 🎄
 
-- [ ] chop down a tree & decorate it 
+- [x] chop down a tree & decorate it 
 - [x] put house decorations up
-- [ ] get kids to do their Christmas cards / candy canes
-  - [ ] kids & I make presents for the teachers
+- [x] get kids to do their Christmas cards / candy canes
+  - [x] kids & I make presents for the teachers
 - [x] write letters to Santa 🎅
-- [ ] make sure Santa sends a reply 😉
-- [ ] do family & friends Christmas cards
-- [ ] make a final Christmas gift list on [Trello](http://trello.com). This will have reminded and the styles, photos, etc.
-- [ ] organize a small holiday. probably on 3 - 7 days somewhere at the beach. calling ⁉ 
+- [x] make sure Santa sends a reply 😉
+- [x] do family & friends Christmas cards
+- [x] make a final Christmas gift list on [Trello](http://trello.com). This will have reminded and the styles, photos, etc.
+- [x] organize a small holiday. probably on 3 - 7 days somewhere at the beach. calling ⁉ 
 - [x] kids to do drawings on tags/bookmarks
-- [ ] get tags/bookmarks laminated
+- [x] get tags/bookmarks laminated
 
 
 ---
